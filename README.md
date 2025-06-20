@@ -20,7 +20,7 @@
 - Python (Pandas, Scikit-Learn, Seaborn)
 
 ## Fichiers clés
-- `scoring_credit.ipynb` : Code py complet contenant l'analyse
+- `scoring_credit.py` : Code py complet contenant l'analyse
 
 ## Auteurs
 Nelson Kokora
