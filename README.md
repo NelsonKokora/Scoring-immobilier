@@ -13,7 +13,7 @@
 
 ## Résultats
 - Variables significatives identifiées : nombre de mois de retard, niveau d’éducation, statut marital
-- AUC Score : XX (à compléter selon ton résultat réel)
+- AUC Score :  0.78
 - Proposition d’un scoring client utile pour prédiction du risque de défaut
 
 ## Technologies
